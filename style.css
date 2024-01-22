@@ -49,3 +49,14 @@
     height: 64px;
     width: 64px;
 }
+
+.col-3{
+    justify-content: center;
+    display: flex;
+}
+
+.sos-img{
+    width: 24px;
+    height: 24px;
+}
+
